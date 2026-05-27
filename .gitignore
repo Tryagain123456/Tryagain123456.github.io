@@ -1,0 +1,4 @@
+.DS_Store
+
+# Private source materials and identity documents should never be published.
+private/
